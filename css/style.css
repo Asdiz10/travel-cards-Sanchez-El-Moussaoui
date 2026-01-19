@@ -17,10 +17,7 @@ body{
     width: 309px;
     background-color: white;
     display: flex;
-    flex-direction: column;
-    align-items: center;
     justify-content: center;
-    padding: 50px;
     box-shadow: -20px 20px 20px 0 rgba(0, 0, 0, 0.5);
 } 
 
@@ -78,6 +75,8 @@ button{
 
 /*card2.html*/
 
+
+
 body{
     background-color: #3d3b3b;
     display: flex;
@@ -89,16 +88,53 @@ body{
 
 .card2{
     box-sizing: border-box;
-    height: 246px;
-    width: 309px;
+    height: 240px;
+    width: 302px;
     background-color: white;
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 50px;
     box-shadow: -20px 20px 20px 0 rgba(0, 0, 0, 0.5);
 } 
+
+
+.h1c2{
+    color: white;
+    width: 224px;
+    height: 40px;
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 500px;
+}
+
+
+.h3c2{
+    color: white;
+    width: 89px;
+    height: 18px;
+    margin-left: 90px;
+    font-size: 10px;
+}
+
+.head2{
+    position: absolute;
+    justify-content: center;
+}
+
+.immg2{
+    width: 42px;
+    height: 42px;
+    margin-left: 97px;
+    border-radius: 20px;
+    border: 1px solid #0882E0;
+}
+
+.img2{
+    position: relative;
+    
+    width: 302px;
+    height: 240px;
+}
 
 
 
